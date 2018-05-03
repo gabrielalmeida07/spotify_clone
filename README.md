@@ -2,4 +2,4 @@
  
  <br/>
  
-<p>Access the site<u> <a href="https://gabrielalmeida07.github.io/spotify_clone">clicking here.<a/><u></p>
+<h2>Access the site<u> <a href="https://gabrielalmeida07.github.io/spotify_clone">clicking here.<a/><u></h2>
